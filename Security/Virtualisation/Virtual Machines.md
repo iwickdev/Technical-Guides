@@ -28,7 +28,7 @@ You can get the ISO of Windows 10 [here](https://www.microsoft.com/en-in/softwar
 
 #### Configuring the Virtual Machine 
 
-##### Creating a Base 
+##### Creating a Base for the Virtual Machine
 
 - Once the VirtualBox GUI is open, click on **New** 
 - Name the Virtual Machine 
@@ -92,7 +92,7 @@ After you've followed the above steps, you're free to use the Virtual Machine as
 
 **Note**: Please be highly cautious while running malware on your virtual machine and make use of common sense while doing so. If you're still unsure of your decision, please refrain and use cloud based virtual machines. There are plenty of such services online, some of them are listed below
 
-* [Tria.ge](https://tria.ge/)
+- [Tria.ge](https://tria.ge/)
 - [ANY.RUN](https://app.any.run/)
 - [Cuckoo Sandbox](https://cuckoo.cert.ee/)
 - [Joe Sandbox](https://www.joesandbox.com/#windows)
