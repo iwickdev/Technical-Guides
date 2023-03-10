@@ -10,12 +10,14 @@ Here's a list of features good passwords have:
 - No personal info
 - No common or repeating patterns
 
-Another method creating extremely strong but still easy to remember passwords is [Dice-Generated Passphrases](https://www.eff.org/dice) by EFF.
+Another method for creating extremely strong but still easy to remember passwords is [Dice-Generated Passphrases](https://www.eff.org/dice) by EFF.
 
 ## Password Managers
   To help remember and generate strong passwords, you should use a password manager.
 - I recommend **[Bitwarden](https://bitwarden.com/)**
   - Open source, audited, easy to use, free.
+- Another option is **[1Password](https://1password.com/)
+  - Easy to use, audited but paid & closed source
 - **Make sure your master password is very strong**
   - It should either be a dice-generated passphrase with a length of 6 words or
   - It should have **at least** 16 characters and meet the requirements defined above.
