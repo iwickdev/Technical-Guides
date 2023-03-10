@@ -49,6 +49,7 @@ You can get the ISO of Windows 10 [here](https://www.microsoft.com/en-in/softwar
 - Go to `General > Advanced` and make the following changes:
 
 > Shared Clipboard - Bidirectional 
+
 > Drag'n'Drop - Disabled
 
 - Go to `Network > Enable Network Adapter (Check the box) > Attached to NAT`
