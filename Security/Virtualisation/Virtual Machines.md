@@ -15,9 +15,11 @@ They can also play a big role in disaster recovery on enterprise levels. System 
 #### The Hypervisor 
 
 - Choosing a Hypervisor 
+
 You can choose from a wide variety of hypervisors on the market. The most well-known ones include VMware, VirtualBox, and HyperV. Since VirtualBox is the best available free alternative, we will be using it as our example throughout this guide.
 
 - Installing the Hypervisor 
+
 To finish the installation, download the VirtualBox [setup](https://www.virtualbox.org/wiki/Downloads) and follow the on-screen instructions.
 
 #### The Operating System
