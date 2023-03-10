@@ -92,7 +92,7 @@ When you've located to this location, follow along these steps:
 
   When you turn on your device, secure boot blocks rootkits, a complex and deadly kind of malware, from loading. Because rootkits start before the operating system and use the same permissions, they can totally conceal themselves. Rootkits frequently come with a full arsenal of malicious software that can transfer private files, bypass local logins, record passwords and keystrokes, and capture cryptographic data.
   
-  - You could also harden your Host OS with [DefenderUI](https://www.defenderui.com/) (optional)
+- You could also harden your Host OS with [DefenderUI](https://www.defenderui.com/) (optional)
   
 After you've followed the above steps, you're free to use the Virtual Machine as you desire. 
 
