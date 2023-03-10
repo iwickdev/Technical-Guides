@@ -16,7 +16,7 @@ Another method for creating extremely strong but still easy to remember password
   To help remember and generate strong passwords, you should use a password manager.
 - I recommend **[Bitwarden](https://bitwarden.com/)**
   - Open source, audited, easy to use, free.
-- Another option is **[1Password](https://1password.com/)
+- Another option is **[1Password](https://1password.com/)**
   - Easy to use, audited but paid & closed source
 - **Make sure your master password is very strong**
   - It should either be a dice-generated passphrase with a length of 6 words or
