@@ -39,7 +39,7 @@ You can get the ISO of Windows 10 [here](https://www.microsoft.com/en-in/softwar
 - Choose the ISO image of your operating system which you had installed 
 - Check the box where it says **Skip Unattended Installation**
 - Click **Next** and allot your Virtual Machine memory (RAM) and processors
-> Keep a minimum of 2GB (2048MB) of RAM and 4 cores for considerable performance
+> Keep a minimum of 2GB (2048MB) of RAM and 4 processors for considerable performance
 - Click **Next** and create a virtual hard disk
 > 80GB of storage is preferrable 
 - Click **Next** and now you'll get a summary of the specifications of your virtual machine. Once reviewed and cross-checked click **Finish**
