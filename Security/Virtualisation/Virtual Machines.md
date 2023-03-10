@@ -99,6 +99,7 @@ After you've followed the above steps, you're free to use the Virtual Machine as
 - [ANY.RUN](https://app.any.run/)
 - [Cuckoo Sandbox](https://cuckoo.cert.ee/)
 - [Joe Sandbox](https://www.joesandbox.com/#windows)
+- [Linode](https://www.linode.com/)
 
   
 
