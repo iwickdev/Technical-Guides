@@ -86,8 +86,10 @@ When you've located to this location, follow along these steps:
 
 - You may turn on Memory Integrity, which isolates computer processes from your operating system and device to further defend against malware and other attacks by preventing harmful code from accessing high-security processes in the case of an attack.
 - Enable TPM under Security Processor Details
+
   Your PC's security is increased using a TPM (Trusted Platform Module). It's used by programmes like Windows Hello and BitLocker drive encryption to safely generate and store cryptographic keys as well as to verify that the firmware and operating system on your device are what they should be and haven't been tampered with.
 - Enable Secure Boot 
+
   When you turn on your device, secure boot blocks rootkits, a complex and deadly kind of malware, from loading. Because rootkits start before the operating system and use the same permissions, they can totally conceal themselves. Rootkits frequently come with a full arsenal of malicious software that can transfer private files, bypass local logins, record passwords and keystrokes, and capture cryptographic data.
   
   - You could also harden your Host OS with [DefenderUI](https://www.defenderui.com/) (optional)
