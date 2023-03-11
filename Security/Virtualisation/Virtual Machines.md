@@ -79,7 +79,7 @@ You can get the ISO of Windows 10 [here](https://www.microsoft.com/en-in/softwar
   
 > `If your VM is running > Click on Machine > Select Take Snapshots from the pull down menu`
 
-> ` If the VM is turned off > Click on the Lists icon next to the machine name > Select Snapshots > Click on Take`
+> `If the VM is turned off > Click on the Lists icon next to the machine name > Select Snapshots > Click on Take`
 
 
 ##### The Host OS
