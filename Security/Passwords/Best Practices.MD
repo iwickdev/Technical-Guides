@@ -1,10 +1,3 @@
----
-layout: default
-title: Passwords
-parent: Security 
-nav_order: 2
----
-
 # Passwords
 
 Created 26.8 by Heli
