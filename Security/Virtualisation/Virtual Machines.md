@@ -1,10 +1,3 @@
----
-layout: default
-title: Virtual Machines
-parent: Security 
-nav_order: 2
----
-
 10.3.23 SkySRN
 
 # What are Virtual Machines?
