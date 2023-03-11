@@ -1,3 +1,9 @@
+---
+layout: default
+title: Guidelines
+nav_order: 2
+---
+
 # Guidelines
 We want to keep this repo as clean as possible and easy for people to access and find information quickly. If you can answer yes to all these questions, then you’re most likely already ready to submit your guide for addition to this repo. And always, thank you for contributing!
 - Can my guide be easily understood by someone who does not know the topic at hand?
